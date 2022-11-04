@@ -54,7 +54,7 @@ form {
     margin: 50PX auto;
 }
 
-.co {
+#co {
     margin: 20px;
 }
 
@@ -80,7 +80,7 @@ section .container-fluid{
     min-height: 300px;
 }
 
-.abouti {
+#abouti {
     color: white;
     font-family: 'Roboto', sans-serif;
 }
@@ -118,3 +118,4 @@ section .container-fluid{
     align-self: center; 
     padding-left: 20px;;
 }
+
